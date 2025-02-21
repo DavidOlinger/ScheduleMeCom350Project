@@ -6,6 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
         run();
+
+        System.out.println("Sup");
     }
 
     public static void run() {
